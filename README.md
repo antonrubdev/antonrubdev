@@ -1,6 +1,6 @@
 ![Green and White Simple Blog Post Guide LinkedIn Article Cover Image ](https://user-images.githubusercontent.com/110166771/181487210-82b42f30-8729-4540-b3ef-42d726bc138b.png)
 
-Hello! My name is Anton and I'm a skilled Python developer with solid expertise in Django, Flask and Fast API. I hav a vast knowledge in programming and always excited to participate in interesting projects.
+Hello! My name is Anton and I'm a skilled Python developer with solid expertise in Django, Flask and Fast API. I have a vast knowledge in programming and always excited to participate in interesting projects.
 Working business and happy users are my topmost priority.
 
 - 📱I'm extremely responsive and keeping all lines of communication readily open
